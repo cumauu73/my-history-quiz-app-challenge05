@@ -6,9 +6,14 @@
 //show start again
 
 
+//score code
+//when its correct +2
+//when its wrong -1
 
 
 
+//questions here
+//and choices with answers
 
 
 
