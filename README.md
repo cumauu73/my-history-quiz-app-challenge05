@@ -25,7 +25,7 @@ THEN I can save my initials and my score
 ```
 
 ## Mock-Up
-## This is the live link of page: ![]()
+This is the live link of page: https://cumauu73.github.io/my-history-quiz-app-challenge05/
 
 The following animation demonstrates the application functionality:
 
