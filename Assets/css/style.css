@@ -68,7 +68,7 @@ li {
 }
 
 #game-over{
-    /* display: none; */ 
+    /* display: none; */
 }
 
 #play-again {
@@ -76,4 +76,7 @@ li {
 }
 label, input {
 
+}
+button:hover {
+    background-color: yellow;
 }
