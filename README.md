@@ -28,13 +28,16 @@ THEN I can save my initials and my score
 
 The following animation demonstrates the application functionality:
 
-![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/images/frame_008_delay-0.07s.jpg)
-![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/images/frame_008_delay-0.07s.jpg)
-![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/images/frame_008_delay-0.07s.jpg)
-![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/images/frame_008_delay-0.07s.jpg)
-![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/images/frame_008_delay-0.07s.jpg)
-![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/images/frame_008_delay-0.07s.jpg)
-![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/images/frame_008_delay-0.07s.jpg)
+1- timer and score apeear top and start quiz button
+
+![](./Assets/images/screenshoots/Capture1.PNG)
+![](./Assets/images/screenshoots/Capture1.PNG)
+![](./Assets/images/screenshoots/Capture1.PNG)
+![](./Assets/images/screenshoots/Capture1.PNG)
+![](./Assets/images/screenshoots/Capture1.PNG)
+![](./Assets/images/screenshoots/Capture1.PNG)
+![](./Assets/images/screenshoots/Capture1.PNG)
+
 
 
 © 2023 Cuma UGUR. Confidential and Proprietary. All Rights Reserved.
