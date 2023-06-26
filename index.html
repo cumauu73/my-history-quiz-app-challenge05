@@ -11,7 +11,7 @@
 <h1>History Quiz Challenge</h1>
     
     <div class="score-time">
-        <p class="score">SCORE:</p>
+        <p id="score">SCORE:<span id="score-change"></span></p>
         <p id="timer">TIME: <span id="time-left"></span></p>
     </div>
     
@@ -26,14 +26,14 @@
             <li><button class="choice">Choice 4</button></li>
           </ul>
         </div>
-        <div id="game-over" style="display: none;">
+        <div id="game-over">
           <h2>Game Over!</h2>
           <p>Your score: <span id="final-score"></span></p>
-          <label for="initials">Enter initials:</label>
+          <label for="initials">ENTER FIRST SCORE:</label>
           <input type="text" id="initials">
-          <button id="save-score">Save</button>
+          <button id="save-score">SAVE SCORE</button>
         </div>
-        <div id="play-again" style="display: none;">
+        <div id="play-again" >
           <button id="play-again-button">Play Again</button>
         </div>
     
