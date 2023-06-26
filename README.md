@@ -25,18 +25,25 @@ THEN I can save my initials and my score
 ```
 
 ## Mock-Up
+## This is the live link of page: ![]()
 
 The following animation demonstrates the application functionality:
 
-1- timer and score apeear top and start quiz button
+## 1- timer and score apeear top and start quiz button
 
 ![](./Assets/images/screenshoots/Capture1.PNG)
-![](./Assets/images/screenshoots/Capture1.PNG)
-![](./Assets/images/screenshoots/Capture1.PNG)
-![](./Assets/images/screenshoots/Capture1.PNG)
-![](./Assets/images/screenshoots/Capture1.PNG)
-![](./Assets/images/screenshoots/Capture1.PNG)
-![](./Assets/images/screenshoots/Capture1.PNG)
+
+## 2-after started quiz question apper
+
+![](./Assets/images/screenshoots/Capture2.PNG)
+
+## 3-after finish save score and play again button
+
+![](./Assets/images/screenshoots/Capture3.PNG)
+
+## 4-score saved and putting the var
+
+![](./Assets/images/screenshoots/Capture4.PNG)
 
 
 
